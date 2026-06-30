@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994337143186",
+    "project_id": "potholelocation-27968",
+    "storage_bucket": "potholelocation-27968.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994337143186:android:1d604d25a444186031294b",
+        "android_client_info": {
+          "package_name": "com.surendramaran.yolov8tflite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRRQhRYnRGReISC-S0Uh7c5YKKZsshc4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
